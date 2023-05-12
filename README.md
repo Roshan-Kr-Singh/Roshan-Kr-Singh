@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-kr-singh&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-kr-singh" /> </p>
 
-- 🌱 I’m currently learning **React, php, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Javascript, React, php, NodeJs, MongoDB**
 
 - 📫 How to reach me **roshankrsingh2000@gmail.com**
 
